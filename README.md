@@ -43,7 +43,7 @@ I run **ZHR Venture**, a design and development agency that collaborates with SM
 - 👯 I’m looking to collaborate on: WooCommerce plugins & JS widgets  
 - 🤔 I’m looking for help with: performance benchmarking tools for WP  
 - 💬 Ask me about: WordPress, WooCommerce, REST APIs, tracking logic  
-- 📫 How to reach me: [zul@zhrventure.com](mailto:zul@zhrventure.com)  
+- 📫 How to reach me: [dev@zhrventure.com](mailto:dev@zhrventure.com)  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I do DIY motorcycle repairs and join KakiRepair to teach others!
 
